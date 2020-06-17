@@ -1,5 +1,5 @@
 # hello-world
 
-beginning anew
-a formal introduction
+beginning anew\n
+a formal introduction\n
 is now required
